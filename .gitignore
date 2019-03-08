@@ -1,0 +1,7 @@
+.idea/
+*.py[cod]
+.ssh/
+logs/log*
+tests/
+dataset/
+
